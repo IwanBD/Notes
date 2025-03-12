@@ -1,0 +1,6 @@
+- How still have access to the views' folder when its name has changed ?
+- what is the use of routes/api.php file ?
+- Why laravel changed the way of calling the controller
+- How to check wheter a view exists or not ?
+- Where is suited to add JS libraries ?
+- Why use csrf token
