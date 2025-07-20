@@ -4,13 +4,13 @@ A collection of quick reference guides for various technologies and frameworks.
 
 ## Contents
 
-- **[Dart](./dart.md)** - Programming language for Flutter and web development
-- **[Kotlin](./kotlin.md)** - JVM language for Android and server-side development
-- **[Laravel](./laravel.md)** - PHP framework for web applications
-- **[Linux](./linux.md)** - Essential commands and system administration
-- **[NGINX](./nginx.md)** - Web server configuration and load balancing
-- **[PostgreSQL](./psql.md)** - Database queries and operations
-- **[React](./react.md)** - Component-based UI library
+- **[Dart]** - Programming language for Flutter and web development
+- **[Kotlin]** - JVM language for Android and server-side development
+- **[Laravel]** - PHP framework for web applications
+- **[Linux]** - Essential commands and system administration
+- **[NGINX]** - Web server configuration and load balancing
+- **[PostgreSQL]** - Database queries and operations
+- **[React]** - Component-based UI library
 
 ## Usage
 
